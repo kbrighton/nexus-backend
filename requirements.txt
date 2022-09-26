@@ -1,0 +1,9 @@
+flask
+python-dotenv
+python-jose
+flask-cors
+six
+sqlalchemy
+flask-graphql
+graphene
+graphene-sqlalchemy
