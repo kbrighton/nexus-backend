@@ -7,3 +7,5 @@ sqlalchemy
 flask-graphql
 graphene
 graphene-sqlalchemy
+Flask-Migrate
+alembic
